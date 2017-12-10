@@ -5,8 +5,9 @@
 ## This app inputs:
 
 ```
-1.Employee position (rank in company ) in the form of a number. Ex: CEO is assigned a rank 10 .Larger the rank , larger the salary.
-[Position-Salaries.csv](./data/Position_Salaries.csv) provides example data.
+1.Employee position (rank in company ) in the form of a number. Ex: CEO is assigned a rank 10 .
+Larger the rank , larger the salary.
+[Position-Salaries.csv](data/Position_Salaries.csv) provides example data.
 2. Employees demanded salary.
 3. A .csv file containing details of previous records of positions and salaries of company's employees.
 
