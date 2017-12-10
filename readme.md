@@ -7,7 +7,7 @@
 ```
 1.Employee position (rank in company ) in the form of a number. Ex: CEO is assigned a rank 10 .
 Larger the rank , larger the salary.
-[Position-Salaries.csv](data/Position_Salaries.csv) provides example data.
+Position-Salaries.csv in sample data folder provides example data.
 2. Employees demanded salary.
 3. A .csv file containing details of previous records of positions and salaries of company's employees.
 
@@ -15,11 +15,10 @@ Larger the rank , larger the salary.
 
 ## Functionalities
 
-```
+
 This app takes the above inputs and predicts whether the employee is honest or is the employee bluffing.
 The node app.js file then sends the information to a python script that implements Random Forest Regression , an ensemble Machine Learning Algorithm on the data to predict the possible salary of the employee.
 
-```
 
 ## PREREQUISITES
 
