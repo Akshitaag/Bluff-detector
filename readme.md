@@ -2,13 +2,15 @@
 
 ### A simple Node web app that uses Random Forest Regression to detect if an employee is demanding excessive salary or is the salary demanded is justified.
 
-##This app inputs:
+## This app inputs:
 
 ```
 1.Employee position (rank in company ) in the form of a number. Ex: CEO is assigned a rank 10 .Larger the rank , larger the salary.
 [Position-Salaries.csv](./data/Position_Salaries.csv) provides example data.
 2. Employees demanded salary.
 3. A .csv file containing details of previous records of positions and salaries of company's employees.
+
+```
 
 ## Functionalities
 
@@ -24,6 +26,7 @@ The node app.js file then sends the information to a python script that implemen
 Node Js
 NPM
 Python
+
 ```
 
 ## To run
