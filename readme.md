@@ -38,3 +38,4 @@ Node app.js
 Open Your favourite browser and go to localhost:3000 to access this site.
 
 The output display a plot showing the Random Forest Regression curve for your data.
+![Plot picture](./plotPics/pic.png)
